@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+      </head>
+              <title>The Sims</title>
+
+              <meta charset="UTF-8">
+              <meta name="author" content="Sheronah Faith A. Amaba">
+              <meta name="keywords" content="HTML, CSS, JavaScript">
+              <meta name="revised" content="22-08-2024">
+      </head>
+      <body>
+              <h1> My Personal Website</h1>
+                     <p> This is a collection of details written on webpages by me!</p>
+                     <a href="games.html"> Click here to know my favorite games! </a>
+      <body>
+</html>
